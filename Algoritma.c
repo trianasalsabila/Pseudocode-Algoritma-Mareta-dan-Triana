@@ -1,5 +1,5 @@
 # Pseudocode-Algoritma-Mareta-dan-Triana
-# Pseudocode-Bahasa nganu
+# Pseudocode-Bahasa C
 
 
 Nomer 2
